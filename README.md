@@ -20,8 +20,8 @@ This program is intended to simulate a simple banking system where users can cre
    cd Banking-System
 
 3.Compile the program:
-g++ main.cpp bankingSystem.cpp -o bankingSystem
+   g++ main.cpp bankingSystem.cpp -o bankingSystem
 
 4.Run the program:
-./bankingSystem
+   ./bankingSystem
 
